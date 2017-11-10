@@ -1,0 +1,101 @@
+v1.0 (06/16/2017)
+- Initial release
+- Used Aftermath Wizard as base
+
+v1.1 (08/03/2017)
+- Changed name of Wizard
+- Added support for FTMC & CEMC log files
+- Cosmetic & personalization updates
+
+v1.2 (08/04/2017)
+- Added Cancel option (incl. message) to functions that were missing it (most of them)
+- Corrected grammar in many messages
+- Cosmetic & personalization updates
+
+v1.3 (08/08/2017)
+- Corrected code for tally of Enabled/Disabled Adult addons
+- Corrected code for tally of Alive sources when Scanning for Broken sources and removing at least 1 broken source
+- Updated code to exit cleanly out of most functions
+- Updated code for Clean Up Video Cache to replace Bob with Bob Unleashed + add Bennu, Covenant & Elysium
+- Cosmetic & personalization updates
+
+v1.4 (08/29/2017)
+- Fixed error in external restores
+- Added code to remove additional Kodi crash logs
+- Updated code for 3rd Party Wizard support
+- Updated code for Save Trakt data to include Covenant
+- Cosmetic & personalization updates
+
+v1.5 (09/01/2017)
+- Fixed code to Clear Video Cache db files
+- Added Beaus Place, Bubbles, Enigma Entertainment, Gurzil, Icefilms, Movie Dude, No-Name, PD Sports, Project M, Red Pill, Specto, Sportie, StreamHub, Tinklepad, UK TUrks Playlists & XXX-O-Dus to Video Cache cleanup
+- Removed Exodus from Save Debrid Data, since it uses URLResolver for Debrid setup: Added Bubbles & Mrknow URLResolver to Save Debrid Data
+- Added Bubbles, Enigma Entertainment, Gurzil, No-Name, StreamHub, UGOTTOC to Save Trakt Data
+- Cosmetic & personalization updates
+
+v1.6 (09/04/2017)
+- Added Salts RD Lite to Save Trakt Data & to Video Cache cleanup
+- Removed Meta, The Royal We, Velocity & Velocity Kids from Save Trakt Data since those addons are not working atm
+- Added Silent Hunter to Video Cache cleanup
+- Updated code to save ALL Trakt & Real Debrid personal info & settings
+- Added Build Video Preview for main build
+- Cosmetic & personalization updates
+
+v1.7 (09/07/2017)
+- Fixed code for Official Kodi APK downloads
+- Added APKs for Kodi Jarvis & Krypton forks (CEC, FTMC, Nodi)
+- Added support for CEMC (log cleanup)
+- Cosmetic & personalization updates
+
+v1.8 (9/28/2017)
+- Renamed wizard and updated icon & fanart
+- Updated code so certain WhiteList features aren't executed and they display a message when whitelist.txt doesn't exist
+- Removed Salts from Save Trakt Data & Video Cache cleanup
+- Added Death Streams to Save Trakt Data & Video Cache cleanup
+- Removed XXX-O-Dus from Video Cache Cleanup
+- Cosmetic & personalization updates
+
+v1.9 (10/03/2017)
+- Enabled Addon Installer and added addons
+- Enabled and added YouTube Videos (Addon Reviews)
+- Added builds from other Looking Glass Team builders
+- Added Build Video Preview for LITE build
+- Updated Kodi Forks
+- Cosmetic & personalization updates
+
+v2.0 (10/08/2017)
+- Disabled repo Auto-install
+- Removed Project D from Video Cache cleanup
+- Added Poseidton to Save Trakt Data & Video Cache cleanup
+- Cosmetic & personalization updates
+
+v2.1 (10/12/2017)
+- Fixed Addon Installer issues
+- Fixed Real Debrid issues
+- Updated Addon Installer to include message when skipping repo install & when skipping removal of addon_data
+- Updated so that Force Close is the default for all installs (skip Reload Profile option since it doesn't always work)
+- Cosmetic & personalization updates
+
+v2.2 (10/14/2017)
+- Fixed Trakt issues
+- Fixed bug with displaying Kodi 18 (Leia) builds
+- Removed Enigma Entertainment & No-Name from Save Trakt Data
+- Removed 1Channel, Bob Unleashed, Enigma Entertainment, Genesis, Icefilms, Movie Dude & No-Name from Video Cache cleanup
+- Added AnArchy, ExoShark, Not Sure, Piranha, Resistance, Salts, The DeLorean, Trakt.tv List Manager & What The Fork? to Save Trakt Data
+- Added AnArchy, Bonecrusher, Boxset Kings, ExoShark, Flixanity, Not Sure, Piranha, Resistance, Revelations, The DeLorean, The Hit Lists, Triangulum, What The Fork? & XXX-O-Dus to Video Cache cleanup
+- Renamed Addon Reviews menu to Reviews & Tutorials
+
+v2.3 (10/15/2017)
+- Added section-specific icons
+
+v2.4 (11/10/2017)
+- Renamed to Klepto Wizard
+- Changed icon and fanart
+- Removed section-specific icons
+- Changed repository
+
+v2.5 (01/15/2018)
+- Updated Convert Paths to Special to include ALL folders (addons & userdata)
+- Added code to support Alluc (Keep My Alluc, Save Alluc Data)
+- Added Speed test
+- Cosmetic & personalization updates

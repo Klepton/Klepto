@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	
+<addon id="repository.klepto" name="Klepto Repo" version="0.0.1" provider-name="Klepton">
+	<extension point="xbmc.addon.repository" name="Klepto Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Klepton/repository.klepto/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Klepton/repository.klepto/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Klepton/repository.klepto/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en">This Repository stores Klepto Builds, Wizards and Addons</description>
+		<genre></genre>
+	</extension>
+</addon>
+
+<addon id="plugin.program.KleptoWizard" name="[COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR]" version="2.4" provider-name="[B][I][COLOR magenta]Klepton[/COLOR][/I][/B]">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>program executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="startup.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Installer for [COLOR cyan]Klepto[/COLOR] Builds</summary>
+		<description lang="en">This Wizard allows you to install the latest version of the [B][COLOR cyan]Klepto[/COLOR][/B] Builds.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.</description>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@Klepto[/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>
+
+</addons>
