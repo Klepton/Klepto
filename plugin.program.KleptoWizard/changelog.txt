@@ -93,9 +93,4 @@ v2.4 (11/10/2017)
 - Changed icon and fanart
 - Removed section-specific icons
 - Changed repository
-
-v2.5 (01/15/2018)
-- Updated Convert Paths to Special to include ALL folders (addons & userdata)
-- Added code to support Alluc (Keep My Alluc, Save Alluc Data)
-- Added Speed test
 - Cosmetic & personalization updates
