@@ -1,2 +1,2 @@
-# repository.kleptokodi
-This Repository stores KleptoKodi Builds, Wizards &amp; Addons.
+# repository.klepto
+This Repository stores Klepto Builds, Wizards &amp; Addons.
