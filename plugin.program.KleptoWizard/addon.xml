@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.KleptoWizard" name="[COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR]" version="2.4" provider-name="[B][I][COLOR magenta]Klepton[/COLOR][/I][/B]">
+<addon id="plugin.program.KleptoWizard" name="[COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR]" version="2.4" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
@@ -10,7 +10,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Installer for [COLOR cyan]Klepto[/COLOR] Builds</summary>
 		<description lang="en">This Wizard allows you to install the latest version of the [B][COLOR cyan]Klepto[/COLOR][/B] Builds.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.</description>
-		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@Klepto[/COLOR][/B]</disclaimer>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@K1ept0[/COLOR][/B]</disclaimer>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>

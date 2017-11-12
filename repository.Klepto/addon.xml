@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Klepto" name="[COLOR cyan]Klepto [COLOR magenta]Repo[/COLOR]" version="0.0.1" provider-name="[B][I][COLOR magenta]Klepton[/COLOR][/I][/B]">
+<addon id="repository.Klepto" name="[COLOR cyan]Klepto [COLOR magenta]Repo[/COLOR]" version="0.0.1" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
 	<extension point="xbmc.addon.repository" name="Klepto Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
@@ -11,9 +11,9 @@
 			<checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/Klepton/repository.klepto/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Klepton/repository.klepto/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Klepton/repository.klepto/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Klepton/Klepto/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en"></summary>
