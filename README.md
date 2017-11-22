@@ -1,2 +1,2 @@
-# repository.klepto
-This Repository stores Klepto Addons
+# repository.Klepto
+This Repository stores Klepto addons
