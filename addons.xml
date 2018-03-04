@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 	
-<addon id="repository.Klepto" name="[COLOR cyan]Klepto [COLOR magenta]Repo[/COLOR]" version="0.0.5" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
+<addon id="repository.Klepto" name="[COLOR cyan]Klepto [COLOR magenta]Repo[/COLOR]" version="0.0.3" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
 	<extension point="xbmc.addon.repository" name="Klepto Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
@@ -18,11 +18,6 @@
   			<checksum>http://teamuniversal.xyz/modules4all/addons.xml.md5</checksum>
   			<datadir zip="true">http://teamuniversal.xyz/modules4all/</datadir>
  		</dir>
-		<dir>
-		    <info compressed="false">http://theunjudged.com/ATrain/repo/addons.xml</info>
-		    <checksum>http://theunjudged.com/ATrain/repo/addons.xml.md5</checksum>
-		    <datadir zip="true">http://theunjudged.com/ATrain/repo/</datadir>
-		</dir>
 		<info compressed="false">https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/Klepton/Klepto/master/</datadir>
