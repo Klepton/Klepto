@@ -11,9 +11,8 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">This fix switches to the appropriate skin in the event of a GUI crash.</summary>
 		<description lang="en">In case of a guisettings crash, this checks if the appropriate skin is currently being used, and if not, it gives you the option to switch to it.</description>
-		<language></language>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@K1ept0[/COLOR][/B]</disclaimer>
 		<platform>all</platform>
-		<website></website>
-		<email></email>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>
 </addon>

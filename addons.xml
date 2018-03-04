@@ -12,7 +12,7 @@
 			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-		</dir>   
+		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
@@ -25,7 +25,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Klepto Repository</summary>
 		<description lang="en">This Repository stores various Klepto addons.</description>
-		<genre></genre>
 	</extension>
 </addon>
 
@@ -39,7 +38,8 @@
 	<extension point="xbmc.service" library="startup.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Installer for [COLOR cyan]Klepto[/COLOR] Builds</summary>
-		<description lang="en">This Wizard allows you to install the latest version of the [B][COLOR cyan]Klepto[/COLOR][/B] Builds.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.</description>
+		<description lang="en">This Wizard allows you to install the latest version of the [B][COLOR cyan]Klepto[/COLOR][/B] Builds.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.
+		</description>
 		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@K1ept0[/COLOR][/B]</disclaimer>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
@@ -58,28 +58,26 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">This fix switches to the appropriate skin in the event of a GUI crash.</summary>
 		<description lang="en">In case of a guisettings crash, this checks if the appropriate skin is currently being used, and if not, it gives you the option to switch to it.</description>
-		<language></language>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@K1ept0[/COLOR][/B]</disclaimer>
 		<platform>all</platform>
-		<website></website>
-		<email></email>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>
 </addon>
 
 <addon id="script.KleptoPair" name="[COLOR cyan]Klepto [COLOR magenta]Pairing Tool[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.script" library="addon.py">
-    <provides>script executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Klepto Pairing Tool</summary>
-    <description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
-	<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@Klepto[/COLOR][/B]</disclaimer>
-    <platform>all</platform>
-	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  </extension>
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>script executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Klepto Pairing Tool</summary>
+		<description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@K1ept0[/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
 </addon>
 
 </addons>
