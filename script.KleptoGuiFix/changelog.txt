@@ -1,0 +1,15 @@
+v1.0.1 (08/11/2017)
+- Initial release
+
+v1.2 (08/30/2017)
+- Updated icon
+- Cosmetic & personalization updates
+
+v1.3 (11/20/2017)
+- Changed name of Script
+- Updated icon
+- Cosmetic & personalization updates
+
+v1.4 (03/03/2018)
+- Changed name of Script
+- Cosmetic & personalization updates
