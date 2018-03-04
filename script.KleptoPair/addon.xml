@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.KleptoPair" name="[COLOR cyan]Klepto [COLOR magenta]Pairing Tool[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>script executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Klepto Pairing Tool</summary>
+    <description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
+	<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR magenta]@Klepto[/COLOR][/B]</disclaimer>
+    <platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  </extension>
+</addon>
