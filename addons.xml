@@ -18,11 +18,9 @@
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Klepton/Klepto/master/</datadir>
-		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Klepton/Klepto/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Klepton/Klepto/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Klepto Repository</summary>
