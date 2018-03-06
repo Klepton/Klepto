@@ -1,2 +1,5 @@
 v1.0 (03/04/2018)
 - Initial release
+
+v1.1 (03/06/2018)
+- Shortened window Title so it fits without scrolling in some skins
