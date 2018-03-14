@@ -96,8 +96,8 @@ v2.4 (11/10/2017)
 - Cosmetic & personalization updates
 
 v2.5 (03/13/2018)
-- Added code to support Alluc (Keep My Alluc, Save Alluc Data)
-- Added Network Tools & Speed test
+- Added code to support Alluc (Keep My Alluc Info, Save My Alluc Info)
+- Added Network Tools (Speed test & View IP/MAC Address)
 - Added OpenSubtitles to Save My Login Info
 - Added Backup, Restore and Clear My Favourites
 - Added Enable Unknown Sources
