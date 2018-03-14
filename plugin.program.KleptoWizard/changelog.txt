@@ -88,9 +88,19 @@ v2.2 (10/14/2017)
 v2.3 (10/15/2017)
 - Added section-specific icons
 
-v2.4 (11/11/2017)
+v2.4 (11/10/2017)
 - Renamed to Klepto Wizard
 - Changed icon and fanart
 - Removed section-specific icons
 - Changed repository
+- Cosmetic & personalization updates
+
+v2.5 (03/13/2018)
+- Added code to support Alluc (Keep My Alluc, Save Alluc Data)
+- Added Network Tools & Speed test
+- Added OpenSubtitles to Save My Login Info
+- Added Backup, Restore and Clear My Favourites
+- Added Enable Unknown Sources
+- Fixed bug with Keep My Installed Repos & Keep Super Favourites
+- Updated default APK background (changed from SPMC background)
 - Cosmetic & personalization updates

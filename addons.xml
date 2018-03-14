@@ -24,7 +24,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.KleptoWizard" name="[COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR]" version="2.4" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
+<addon id="plugin.program.KleptoWizard" name="[COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR]" version="2.5" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
