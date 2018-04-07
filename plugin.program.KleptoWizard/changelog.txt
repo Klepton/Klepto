@@ -104,3 +104,11 @@ v2.5 (03/13/2018)
 - Fixed bug with Keep My Installed Repos & Keep Super Favourites
 - Updated default APK background (changed from SPMC background)
 - Cosmetic & personalization updates
+
+v2.6 (04/04/2018)
+- Fixed regex for Official SPMC APKs section
+- Disabled System Information section
+- Disabled MAC/IP Address under Network Tools section
+- Added section-specific icons
+- Added support for EBMC
+- Cosmetic & personalization updates

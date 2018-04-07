@@ -7,4 +7,5 @@ EchoCoder      :  Help with Addons27.db
 Surfacingx     :  Creator of the Aftermath Wizard
 Barroni        :  Artwork for Advanced Settings Auto Configurator
 MetalKettle    :  Speed test
+Judgement      :  SPMC regex fix
 WhufcLee, OpenEleq, Midraal : Various coding help
