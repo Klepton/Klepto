@@ -13,3 +13,7 @@ v1.3 (11/20/2017)
 v1.4 (03/03/2018)
 - Changed name of Script
 - Cosmetic & personalization updates
+
+v1.5 (04/08/2018)
+- Updated fanart & icon
+- Encrypted
