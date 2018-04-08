@@ -4,7 +4,7 @@ v1.0 (03/04/2018)
 v1.1 (03/06/2018)
 - Shortened window Title so it fits without scrolling in some skins
 
-v 1.2 (04/08/2018)
+v1.2 (04/08/2018)
 - Added Streamango pairing site
 - Updated VidUp.me URL
 - Encrypted
