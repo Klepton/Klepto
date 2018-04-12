@@ -29,7 +29,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Klepto Repo</summary>
-		<description lang="en">This Repository stores Klepto addons plus other repos which provide essential programs/modules/scripts</description>
+		<description lang="en">This Repository stores Klepto addons plus other repos which provide essential modules.</description>
 		<disclaimer lang="en">The authors of these addons are not responsible for their use. The authors are not responsible for the content found using these addons. The authors do not host or own any content found within these addons.  The authors are in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.  This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
 		<platform>all</platform>
 	</extension>
