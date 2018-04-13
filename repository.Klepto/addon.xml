@@ -12,11 +12,6 @@
 			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
 		</dir>
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
-		</dir>
-		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
@@ -27,7 +22,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Klepto Repo</summary>
-		<description lang="en">This Repository stores Klepto addons plus other repos which provide essential modules.</description>
+		<description lang="en">This Repository stores various Klepto addons.</description>
 		<platform>all</platform>
 	</extension>
 </addon>
