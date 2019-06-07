@@ -1,11 +1,23 @@
-v1.0 (03/04/2018)
-- Initial release
-
-v1.1 (03/06/2018)
-- Shortened window Title so it fits without scrolling in some skins
+v1.3 (06/06/2019)
+- Updated fanart & icon
+- Added flashX pairing site
+- Added streamcherry pairing site
+- Added RD authorization
+- Updated to work with Mac OSX
+- Replaced TheVideo.me pairing site with VEViO
+- Replaced VidUP.me pairing site with ViduP
+- Added All Debrid authorization
+- Added Premiumize.me authorization
+- Added Trakt authorization (Trakt Addon must be installed FIRST!)
 
 v1.2 (04/08/2018)
 - Added Streamango pairing site
 - Updated VidUp.me URL
 - Encrypted
 - Cosmetic & personalization updates
+
+v1.1 (03/06/2018)
+- Shortened window Title so it fits without scrolling in some skins
+
+v1.0 (03/04/2018)
+- Initial release
